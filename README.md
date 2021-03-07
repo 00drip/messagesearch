@@ -1,0 +1,1 @@
+The `chatlog.log` file was obtained from [this repository](https://github.com/ckan/irc-logs/) by the user ckan. I do not own the data.
