@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "buffer": "^5.7.1",
+    "fuzzy-matching": "^0.4.3",
+    "lz4": "^0.6.5"
+  }
+}
